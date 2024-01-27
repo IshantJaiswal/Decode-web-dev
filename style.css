@@ -1,0 +1,20 @@
+ h1{ /* Selectors  */
+    color: red;
+    background-image: url("/blog\ header.jpeg");
+}
+
+.kunal h3 {
+    color: #9932CC;
+    background-color: #e74f4f;
+}
+
+#both h3,p {
+    color:rgb(250, 243, 246);
+    background-color: red;
+}
+
+#harry img{
+    padding: 20px 30px 40px 50px;
+}
+
+/* hello  */
